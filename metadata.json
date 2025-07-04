@@ -1,0 +1,6 @@
+{
+  "name": "3D Drift King",
+  "description": "A web-based 3D car drifting game built with React, Three.js, and Cannon-es. Score points by executing stylish drifts. Features a dynamic camera, visual effects, and sound.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
