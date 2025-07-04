@@ -1,2 +1,9 @@
-# driftking
-A web-based 3D car drifting game built with React, Three.js, and Cannon-es
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Run the app:
+   `npm run dev`
